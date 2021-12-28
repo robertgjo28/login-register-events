@@ -21,7 +21,7 @@ vue ui
 
 ```
 
-### Run the server
+### Run the development server
 ```
 yarn run serve
 ```
