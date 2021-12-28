@@ -21,9 +21,9 @@ vue ui
 
 ```
 
-### Compiles and hot-reloads for development
+### Run the server
 ```
-yarn serve
+yarn run serve
 ```
 
 ### Compiles and minifies for production
