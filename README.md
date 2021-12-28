@@ -1,5 +1,5 @@
 # test-task
-Once you finish with the yarn install command, please configure the ESLint with vue ui.
+Once you finish with the ``yarn install`` command, please configure the ESLint with ``vue ui``.
 ```
 You can check the demo app at: https://bto-test.vercel.app/
 ```
