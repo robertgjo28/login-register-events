@@ -126,7 +126,7 @@
         </div>
       </form>
     </main>
-  </section>
+  
 
   <div class="modal-hmm" v-if="modalToggle">
     <span class="close" title="Close Modal">&times;</span>
@@ -157,6 +157,7 @@
     </form>
   </div>
 </template>
+</section>
 
 <script>
 import { eventsCollection, auth } from "@/includes/firebase";
