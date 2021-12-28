@@ -1,8 +1,22 @@
 # test-task
+Once you type the yarn install command, please configure the ESLint with vue ui.
+
 
 ## Project setup
 ```
 yarn install
+```
+
+## First configure the ESLint
+
+```
+vue ui
+
+-> Select the project test-task
+--> Configuration
+---> ESLint Configuration
+----> Select Config: Essential ( default )
+
 ```
 
 ### Compiles and hot-reloads for development
