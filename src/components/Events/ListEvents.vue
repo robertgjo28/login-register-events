@@ -156,8 +156,8 @@
       </div>
     </form>
   </div>
+  </section>
 </template>
-</section>
 
 <script>
 import { eventsCollection, auth } from "@/includes/firebase";
