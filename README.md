@@ -1,5 +1,5 @@
 # test-task
-Once you type the yarn install command, please configure the ESLint with vue ui.
+Once you finish with the yarn install command, please configure the ESLint with vue ui.
 
 
 ## Project setup
